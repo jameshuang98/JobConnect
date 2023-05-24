@@ -93,6 +93,8 @@ const JobDetails = () => {
                         </View>
                     )}
                 </ScrollView>
+
+                <JobFooter url={data[0]?.job_google.link ?? 'https://careers.google.com/jobs/results'}/>
             </>
         </SafeAreaView>
     )
