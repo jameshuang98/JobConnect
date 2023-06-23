@@ -1,14 +1,16 @@
-# Expo Router Example
+# JobConnect
+JobConnect is an mobile job finding app which allows users to search and filter for their desired job.
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+## Final Product
+!["Screenshot of home page"](https://github.com/jameshuang98/JobConnect/blob/master/assets/screenshots/home_page.PNG?raw=true)
 
-## 🚀 How to use
+!["Screenshot of job"](https://github.com/jameshuang98/JobConnect/blob/master/assets/screenshots/job2.PNG?raw=true)
 
-```sh
-npx create-expo-app -e with-router
-```
+!["Screenshot of a different job"](https://github.com/jameshuang98/JobConnect/blob/master/assets/screenshots/job1.PNG?raw=true)
 
-## 📝 Notes
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+## Dependencies
+
+- React-Native
+- Expo
+- Axios
