@@ -1,5 +1,5 @@
 # JobConnect
-JobConnect is an mobile job finding app which allows users to search and filter for their desired job.
+JobConnect is a mobile app that simplifies the job-hunting process. It allows users to effortlessly searching and filtering job listings, helping them find the perfect career opportunity with ease.
 
 ## Final Product
 
